@@ -1,0 +1,1 @@
+SELECT grp, MAX(val) FROM test_float_agg GROUP BY grp;

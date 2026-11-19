@@ -1,0 +1,1 @@
+SELECT round(c2, cast(1 as bigint)) FROM test_round;

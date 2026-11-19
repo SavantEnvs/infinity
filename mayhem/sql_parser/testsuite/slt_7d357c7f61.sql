@@ -1,0 +1,1 @@
+COPY test_import_deleted_jsonl FROM '/var/infinity/test_data/tmp/test_export_deleted.jsonl' WITH (FORMAT JSONL, DELIMITER ',');

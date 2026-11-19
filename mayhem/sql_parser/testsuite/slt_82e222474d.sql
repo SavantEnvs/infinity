@@ -1,0 +1,1 @@
+SELECT c1 FROM test_delete_with_ivf SEARCH MATCH VECTOR (c2, [0.3, 0.3, 0.2, 0.2], 'float', 'l2', 3);

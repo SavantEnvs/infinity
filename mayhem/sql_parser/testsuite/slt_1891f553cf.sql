@@ -1,0 +1,1 @@
+SELECT round(c1, 1) FROM test_round;

@@ -1,0 +1,1 @@
+INSERT INTO user_tags VALUES (6, '[{"name":"张三", "age":25}, {"name":"李四", "age":30}]')

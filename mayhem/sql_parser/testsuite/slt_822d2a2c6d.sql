@@ -1,0 +1,1 @@
+COPY sqllogic_d FROM '/var/infinity/test_data/test_import_time.csv' WITH ( DELIMITER ',', FORMAT CSV );

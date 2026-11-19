@@ -1,0 +1,1 @@
+SELECT * FROM test_like WHERE 'hello' LIKE 'world';

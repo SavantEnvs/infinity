@@ -1,0 +1,1 @@
+explain fragment SELECT a FROM t ORDER BY a LIMIT 3;

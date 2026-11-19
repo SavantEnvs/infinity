@@ -1,0 +1,1 @@
+SELECT * FROM ft_in_filter_minimum_should_match;

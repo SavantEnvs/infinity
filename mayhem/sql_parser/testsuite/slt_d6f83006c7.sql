@@ -1,0 +1,1 @@
+CREATE TABLE test_empty_date_agg (c1 DATE);

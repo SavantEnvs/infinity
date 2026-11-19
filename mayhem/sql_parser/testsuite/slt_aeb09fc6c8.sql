@@ -1,0 +1,1 @@
+INSERT INTO test_array_table VALUES (1, {0, 3}), (2, {});

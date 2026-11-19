@@ -1,0 +1,1 @@
+COPY cached_sparse_scan FROM '/var/infinity/test_data/sparse_knn.csv' WITH (FORMAT CSV);

@@ -1,0 +1,1 @@
+SELECT col1 FROM test_knn_sparse_bmp SEARCH MATCH SPARSE (col2, [0:1.0,20:2.0,80:3.0], 'ip', 10) USING INDEX(idx2);

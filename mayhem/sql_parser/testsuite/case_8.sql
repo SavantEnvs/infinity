@@ -1,0 +1,1 @@
+explain select count(*) from t1 group by c2 having count(*) > 1;

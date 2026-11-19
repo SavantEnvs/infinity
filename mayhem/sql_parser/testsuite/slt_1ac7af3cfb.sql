@@ -1,0 +1,1 @@
+CREATE TABLE test_knn_ip(c1 INT, c2 EMBEDDING(FLOAT, 4));

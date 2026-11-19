@@ -1,0 +1,1 @@
+COPY test_knn_hnsw_i8 FROM '/var/infinity/test_data/embedding_int_dim3.csv' WITH (DELIMITER ',', FORMAT CSV);

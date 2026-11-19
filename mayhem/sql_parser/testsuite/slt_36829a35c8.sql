@@ -1,0 +1,1 @@
+SELECT * FROM test_in where num + 2 in ('3', '4', '5');

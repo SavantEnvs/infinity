@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS test_delete_with_ivf;

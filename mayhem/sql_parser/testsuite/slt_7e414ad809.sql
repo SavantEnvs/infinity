@@ -1,0 +1,1 @@
+SELECT c1, json_extract_int(c2, '$.value') - 20 FROM test_json_arithmetic WHERE c1 = 1;

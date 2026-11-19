@@ -1,0 +1,1 @@
+create index idx1 on t1 (c2) using fulltext;

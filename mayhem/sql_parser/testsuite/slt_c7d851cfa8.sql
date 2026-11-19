@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS sqllogic_test_export_deleted_jsonl;

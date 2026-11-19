@@ -1,0 +1,1 @@
+update t1 set c2 = 'zz' where c1 = 2;

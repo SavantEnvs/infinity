@@ -1,0 +1,1 @@
+COPY test_knn_ip FROM '/var/infinity/test_data/embedding_float_dim4.csv' WITH (DELIMITER ',', FORMAT CSV);

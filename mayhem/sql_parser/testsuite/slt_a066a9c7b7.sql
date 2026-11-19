@@ -1,0 +1,1 @@
+INSERT INTO test_null_in VALUES (5, NULL, 0);

@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS emb_null_test;

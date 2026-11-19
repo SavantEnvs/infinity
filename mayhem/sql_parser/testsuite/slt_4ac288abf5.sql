@@ -1,0 +1,1 @@
+INSERT INTO test_json_filter VALUES (11, 'l', '{"empty_array": [], "empty_object": {}, "special_chars": "a\nb\tc", "unicode": "\u4e2d\u6587"}')

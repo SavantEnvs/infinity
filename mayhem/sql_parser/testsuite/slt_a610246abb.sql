@@ -1,0 +1,1 @@
+CREATE TABLE cached_limit_fulltext(doctitle varchar DEFAULT '', docdate varchar DEFAULT '', body varchar DEFAULT '');

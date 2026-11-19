@@ -1,0 +1,1 @@
+SELECT * FROM test_embedding_null ORDER BY col1;

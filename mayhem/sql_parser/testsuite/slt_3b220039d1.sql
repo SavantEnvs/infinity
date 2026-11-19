@@ -1,0 +1,1 @@
+DROP TABLE tensor_array_bit_maxsim;

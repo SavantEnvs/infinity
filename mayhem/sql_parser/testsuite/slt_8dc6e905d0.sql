@@ -1,0 +1,1 @@
+SELECT title, ROUND(SCORE(), 4) FROM sqllogic_tensor_maxsim SEARCH MATCH TENSOR (t, [[0.0, -10.0, 0.0, 0.7], [9.2, 45.6, -55.8, 3.5]], 'float', 'maxsim', '') WHERE 10 > num;

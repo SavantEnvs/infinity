@@ -1,0 +1,1 @@
+create table t3 (a int, b );

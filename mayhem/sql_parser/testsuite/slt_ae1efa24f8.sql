@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS test_import_deleted_parquet;

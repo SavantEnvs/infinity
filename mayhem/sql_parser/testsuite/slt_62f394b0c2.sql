@@ -1,0 +1,1 @@
+DROP TABLE str_index_scan_insert;

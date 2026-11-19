@@ -1,0 +1,11 @@
+project: savantenvs/infinity
+target: expr_parser
+
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/expr_parser/testsuite
+
+cmds:
+  - cmd: /mayhem/fuzz_expr_parser
+    libfuzzer: true
+    timeout: 5

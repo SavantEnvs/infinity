@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS test_empty_int_agg;

@@ -1,0 +1,1 @@
+SELECT id, json_extract_string(tags, '$[5].key') FROM user_tags WHERE id = 10;

@@ -1,0 +1,1 @@
+CREATE TABLE test_sparse (col1 INT, col2 SPARSE(DOUBLE, 30000));

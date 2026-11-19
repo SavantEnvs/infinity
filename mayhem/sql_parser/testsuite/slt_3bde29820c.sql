@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS test_bfloat16_agg;

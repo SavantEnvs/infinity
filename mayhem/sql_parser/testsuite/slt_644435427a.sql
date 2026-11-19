@@ -1,0 +1,1 @@
+INSERT INTO sqllogic_test_rankfeatures VALUES ('2025','hello world','[{"Tag1":2},{"Tag2":1}]');

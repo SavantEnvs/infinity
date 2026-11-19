@@ -1,0 +1,1 @@
+COPY sqllogic_test_index_comment FROM '/var/infinity/test_data/test.fvecs' WITH ( DELIMITER ',', FORMAT fvecs);

@@ -1,0 +1,1 @@
+INSERT INTO test_binary_hamming VALUES

@@ -1,0 +1,1 @@
+copy t2 from '/tmp/data.csv' with (format csv, header, delimiter ',');

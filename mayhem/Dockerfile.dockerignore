@@ -1,0 +1,3 @@
+# Upstream .dockerignore excludes everything (`*`); the commit image needs the whole tree incl. .git.
+# BuildKit uses this file instead of the root .dockerignore for mayhem/Dockerfile.
+build-mayhem/

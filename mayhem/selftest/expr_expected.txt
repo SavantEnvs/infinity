@@ -1,0 +1,9 @@
+(a + 1)
+and((c1 > 10), (c2 < 3))
+abs(c1) | ((c2 * 2) + 1)
+c1IN (123)
+c2 BETWEEN 5 AND 1
+not(or((a = b), <>(c, d)))
+CAST(c1  AS Varchar)
+ERR
+ERR

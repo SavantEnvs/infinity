@@ -1,0 +1,11 @@
+project: savantenvs/infinity
+target: column_def_json
+
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/column_def_json/testsuite
+
+cmds:
+  - cmd: /mayhem/fuzz_column_def_json
+    libfuzzer: true
+    timeout: 5

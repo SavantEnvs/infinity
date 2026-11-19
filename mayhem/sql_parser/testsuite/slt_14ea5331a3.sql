@@ -1,0 +1,1 @@
+SELECT * FROM test_fp16_bf16 ORDER BY c3 DESC;

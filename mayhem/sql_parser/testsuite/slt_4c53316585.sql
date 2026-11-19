@@ -1,0 +1,1 @@
+CREATE INDEX iiiii on explain_fusion(num);

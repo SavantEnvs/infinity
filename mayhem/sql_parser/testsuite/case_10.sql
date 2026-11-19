@@ -1,0 +1,1 @@
+select * from t1 search match text ('c2', 'hello world', 'topn=10');

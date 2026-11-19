@@ -1,0 +1,1 @@
+create table t1 (c1 int primary key, c2 varchar, c3 embedding(float, 4));

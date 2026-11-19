@@ -1,0 +1,1 @@
+COPY ft_in_filter FROM '/var/infinity/test_data/fulltext_delete.csv' WITH ( DELIMITER '\t', FORMAT CSV );

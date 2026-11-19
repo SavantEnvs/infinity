@@ -1,0 +1,1 @@
+INSERT INTO test_default2(col1, col4) VALUES (1, 4);

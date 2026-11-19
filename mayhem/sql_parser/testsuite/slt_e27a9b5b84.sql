@@ -1,0 +1,1 @@
+CREATE TABLE regex_multi (id INT, doc VARCHAR);

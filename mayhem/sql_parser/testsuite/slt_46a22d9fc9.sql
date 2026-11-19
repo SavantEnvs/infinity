@@ -1,0 +1,1 @@
+COPY sqllogic_test_export_jsonl TO '/var/infinity/test_data/tmp/test_export_embedding.jsonl' WITH (FORMAT JSONL, DELIMITER ',');

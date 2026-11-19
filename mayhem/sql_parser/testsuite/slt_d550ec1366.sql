@@ -1,0 +1,1 @@
+INSERT INTO user_tags VALUES (12, '{"key": "value"}')

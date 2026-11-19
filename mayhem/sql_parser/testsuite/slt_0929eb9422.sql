@@ -1,0 +1,1 @@
+SELECT grp, MAX(val) FROM test_smallint_agg GROUP BY grp;

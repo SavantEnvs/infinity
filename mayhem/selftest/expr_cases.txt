@@ -1,0 +1,9 @@
+a + 1
+c1 > 10 and c2 < 3
+abs(c1), c2 * 2 + 1
+c1 in (1, 2, 3)
+c2 between 1 and 5
+not (a = b or c <> d)
+cast(c1 as varchar)
+a +
+(a, b

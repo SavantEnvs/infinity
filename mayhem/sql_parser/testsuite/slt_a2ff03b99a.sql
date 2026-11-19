@@ -1,0 +1,1 @@
+SELECT c3, CHAR_LENGTH(c3), SUM(c1) FROM simple_groupby GROUP BY c3;

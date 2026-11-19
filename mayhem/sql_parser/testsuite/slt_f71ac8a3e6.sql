@@ -1,0 +1,1 @@
+DROP INDEX idx_c1 ON test_secondary_index;

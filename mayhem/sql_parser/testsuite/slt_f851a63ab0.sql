@@ -1,0 +1,1 @@
+INSERT INTO sqllogic_test_export_jsonl VALUES (1, [10000:1.0,20000:2.0]), (3, [3000:3.0]);

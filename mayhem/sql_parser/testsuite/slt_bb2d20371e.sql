@@ -1,0 +1,1 @@
+SELECT c2, trunc(c2, 12) FROM test_truncate;

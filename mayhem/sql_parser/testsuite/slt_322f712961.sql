@@ -1,0 +1,1 @@
+COPY test_import_sparse FROM '/var/infinity/test_data/invalid_sparse_bit.csv' WITH (FORMAT CSV);

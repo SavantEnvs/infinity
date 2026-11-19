@@ -1,0 +1,1 @@
+SELECT ROW_ID(), ROUND(SCORE(), 4) FROM sqllogic_test_enwiki SEARCH MATCH TEXT ('doctitle,body^5', 'harmful chemical anarchism', 'topn=3;block_max=compare');

@@ -1,0 +1,1 @@
+DROP TABLE IF EXISTS cached_knn_scan;

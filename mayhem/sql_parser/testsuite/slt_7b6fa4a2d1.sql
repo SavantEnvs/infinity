@@ -1,0 +1,1 @@
+CREATE TABLE sqllogic_tensor_maxsim (title VARCHAR, num INT, t TENSOR(BFLOAT16, 4), body VARCHAR);

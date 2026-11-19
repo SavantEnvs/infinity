@@ -1,0 +1,1 @@
+COPY tbl2 FROM '/var/infinity/test_data/embedding_3.csv' WITH (DELIMITER ',', FORMAT CSV);

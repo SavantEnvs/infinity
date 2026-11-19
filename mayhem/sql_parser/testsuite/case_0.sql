@@ -1,0 +1,1 @@
+select a, b from t1 where a > 1 and b < 'x' order by a desc limit 10;

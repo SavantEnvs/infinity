@@ -1,0 +1,1 @@
+SELECT *, ROUND(SCORE(), 4) FROM ft_minimum_should_match SEARCH MATCH TEXT ('doc', 'second text multiple', 'topn=10;similarity=boolean;threshold=1.5');

@@ -1,0 +1,1 @@
+COPY test_explain_index_scan FROM '/var/infinity/test_data/test_big_index_scan.csv' WITH (DELIMITER ',', FORMAT CSV);

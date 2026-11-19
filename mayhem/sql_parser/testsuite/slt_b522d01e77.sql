@@ -1,0 +1,1 @@
+SELECT c2 FROM test_math WHERE not isinf(c2);

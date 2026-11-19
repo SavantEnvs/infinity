@@ -1,0 +1,1 @@
+INSERT INTO sqllogic_test_export_deleted_parquet VALUES(false, 1, 1, 1.000000);
